@@ -11,6 +11,8 @@ include_once("pages/functions.php");
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style1.css" rel="stylesheet">
+
+  
 </head>
 
 <body>
@@ -45,7 +47,9 @@ include_once("pages/functions.php");
                 }
                 ?>
             </section>
-        </div>
+           
+        </div> 
+        
         <div class="row">
             <footer>Step Academy &copy;</footer>
         </div>
