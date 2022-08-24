@@ -16,7 +16,7 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
           <a class="dropdown-item" href="#">Name</a>
-
+          <a class="dropdown-item" href="#">Evgenij</a>
         </div>
       </li>
 </ul>
